@@ -186,6 +186,102 @@
         "to": [-0, 5000]
     },
     {
+        "name": "6.25K 直角环线 Leg 1",
+        "state": "planned",
+        "from": [0, 6250],
+        "to": [6250, 6250]
+    },
+    {
+        "name": "6.25K 直角环线 Leg 2",
+        "state": "planned",
+        "from": [6250, 6250],
+        "to": [6250, 0]
+    },
+    {
+        "name": "6.25K 直角环线 Leg 3",
+        "state": "planned",
+        "from": [6250, -0],
+        "to": [6250, -6250]
+    },
+    {
+        "name": "6.25K 直角环线 Leg 4",
+        "state": "planned",
+        "from": [6250, -6250],
+        "to": [0, -6250]
+    },
+    {
+        "name": "6.25K 直角环线 Leg 5",
+        "state": "planned",
+        "from": [-0, -6250],
+        "to": [-6250, -6250]
+    },
+    {
+        "name": "6.25K 直角环线 Leg 6",
+        "state": "planned",
+        "from": [-6250, -6250],
+        "to": [-6250, -0]
+    },
+    {
+        "name": "6.25K 直角环线 Leg 7",
+        "state": "planned",
+        "from": [-6250, 0],
+        "to": [-6250, 6250]
+    },
+    {
+        "name": "6.25K 直角环线 Leg 8",
+        "state": "planned",
+        "from": [-6250, 6250],
+        "to": [-0, 6250]
+    },
+    {
+        "name": "7.5K 直角环线 Leg 1",
+        "state": "planned",
+        "from": [0, 7500],
+        "to": [7500, 7500]
+    },
+    {
+        "name": "7.5K 直角环线 Leg 2",
+        "state": "planned",
+        "from": [7500, 7500],
+        "to": [7500, 0]
+    },
+    {
+        "name": "7.5K 直角环线 Leg 3",
+        "state": "planned",
+        "from": [7500, -0],
+        "to": [7500, -7500]
+    },
+    {
+        "name": "7.5K 直角环线 Leg 4",
+        "state": "planned",
+        "from": [7500, -7500],
+        "to": [0, -7500]
+    },
+    {
+        "name": "7.5K 直角环线 Leg 5",
+        "state": "planned",
+        "from": [-0, -7500],
+        "to": [-7500, -7500]
+    },
+    {
+        "name": "7.5K 直角环线 Leg 6",
+        "state": "planned",
+        "from": [-7500, -7500],
+        "to": [-7500, -0]
+    },
+    {
+        "name": "7.5K 直角环线 Leg 7",
+        "state": "planned",
+        "from": [-7500, 0],
+        "to": [-7500, 7500]
+    },
+    {
+        "name": "7.5K 直角环线 Leg 8",
+        "state": "planned",
+        "from": [-7500, 7500],
+        "to": [-0, 7500]
+    },
+    {
         "name": "10K 直角环线 Leg 1",
         "state": "main_axis_paved",
         "from": [0, 10000],
@@ -628,6 +724,54 @@
         "state": "main_axis_paved",
         "from": [-50000, 50000],
         "to": [-0, 50000]
+    },
+    {
+        "name": "55K 直角环线 Leg 1",
+        "state": "planned",
+        "from": [0, 55000],
+        "to": [55000, 55000]
+    },
+    {
+        "name": "55K 直角环线 Leg 2",
+        "state": "planned",
+        "from": [55000, 55000],
+        "to": [55000, 0]
+    },
+    {
+        "name": "55K 直角环线 Leg 3",
+        "state": "planned",
+        "from": [55000, -0],
+        "to": [55000, -55000]
+    },
+    {
+        "name": "55K 直角环线 Leg 4",
+        "state": "planned",
+        "from": [55000, -55000],
+        "to": [0, -55000]
+    },
+    {
+        "name": "55K 直角环线 Leg 5",
+        "state": "planned",
+        "from": [-0, -55000],
+        "to": [-55000, -55000]
+    },
+    {
+        "name": "55K 直角环线 Leg 6",
+        "state": "planned",
+        "from": [-55000, -55000],
+        "to": [-55000, -0]
+    },
+    {
+        "name": "55K 直角环线 Leg 7",
+        "state": "planned",
+        "from": [-55000, 0],
+        "to": [-55000, 55000]
+    },
+    {
+        "name": "55K 直角环线 Leg 8",
+        "state": "planned",
+        "from": [-55000, 55000],
+        "to": [-0, 55000]
     },
     {
         "name": "62.5K 直角环线 Leg 1",
@@ -1204,6 +1348,30 @@
         "state": "planned",
         "from": [-3750000, 3750000],
         "to": [-0, 3750000]
+    },
+    {
+        "name": "10K 钻石环线 Leg 1",
+        "state": "planned",
+        "from": [-0, 10000],
+        "to": [10000, -0]
+    },
+    {
+        "name": "10K 钻石环线 Leg 2",
+        "state": "planned",
+        "from": [10000, 0],
+        "to": [-0, -10000]
+    },
+    {
+        "name": "10K 钻石环线 Leg 3",
+        "state": "planned",
+        "from": [0, -10000],
+        "to": [-10000, 0]
+    },
+    {
+        "name": "10K 钻石环线 Leg 4",
+        "state": "planned",
+        "from": [-10000, -0],
+        "to": [0, 10000]
     },
     {
         "name": "25K 钻石环线 Leg 1",
