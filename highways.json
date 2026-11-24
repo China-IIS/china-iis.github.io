@@ -235,49 +235,49 @@
     },
     {
         "name": "15K 直角环线 Leg 1",
-        "state": "planned",
+        "state": "main_axis_dug_wide",
         "from": [0, 15000],
         "to": [15000, 15000]
     },
     {
         "name": "15K 直角环线 Leg 2",
-        "state": "planned",
+        "state": "main_axis_dug_wide",
         "from": [15000, 15000],
         "to": [15000, 0]
     },
     {
         "name": "15K 直角环线 Leg 3",
-        "state": "planned",
+        "state": "main_axis_dug_wide",
         "from": [15000, -0],
         "to": [15000, -15000]
     },
     {
         "name": "15K 直角环线 Leg 4",
-        "state": "planned",
+        "state": "main_axis_dug_wide",
         "from": [15000, -15000],
         "to": [0, -15000]
     },
     {
         "name": "15K 直角环线 Leg 5",
-        "state": "planned",
+        "state": "main_axis_dug_wide",
         "from": [-0, -15000],
         "to": [-15000, -15000]
     },
     {
         "name": "15K 直角环线 Leg 6",
-        "state": "planned",
+        "state": "main_axis_dug_wide",
         "from": [-15000, -15000],
         "to": [-15000, -0]
     },
     {
         "name": "15K 直角环线 Leg 7",
-        "state": "planned",
+        "state": "main_axis_dug_wide",
         "from": [-15000, 0],
         "to": [-15000, 15000]
     },
     {
         "name": "15K 直角环线 Leg 8",
-        "state": "planned",
+        "state": "main_axis_dug_wide",
         "from": [-15000, 15000],
         "to": [-0, 15000]
     },
