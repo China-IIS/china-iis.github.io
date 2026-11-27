@@ -1567,7 +1567,7 @@
     },
     {
         "name": "+Z 5K 网格公路",
-        "state": "planned",
+        "state": "main_axis_paved",
         "from": [5000, 5000],
         "to": [5000, 50000]
     },
@@ -1628,7 +1628,7 @@
 
     {
         "name": "+Z -5K 网格公路",
-        "state": "planned",
+        "state": "main_axis_paved",
         "from": [-5000, 5000],
         "to": [-5000, 50000]
     },
@@ -1689,7 +1689,7 @@
     
     {
         "name": "+X 5K 网格公路",
-        "state": "planned",
+        "state": "main_axis_paved",
         "from": [5000, 5000],
         "to": [50000, 5000]
     },
@@ -1750,7 +1750,7 @@
     
     {
         "name": "+X -5K 网格公路",
-        "state": "planned",
+        "state": "main_axis_paved",
         "from": [5000, -5000],
         "to": [50000, -5000]
     },
@@ -1811,7 +1811,7 @@
     
     {
         "name": "-Z 5K 网格公路",
-        "state": "planned",
+        "state": "main_axis_paved",
         "from": [5000, -5000],
         "to": [5000, -50000]
     },
@@ -1872,7 +1872,7 @@
     
     {
         "name": "-Z -5K 网格公路",
-        "state": "planned",
+        "state": "main_axis_paved",
         "from": [-5000, -5000],
         "to": [-5000, -50000]
     },
@@ -1933,7 +1933,7 @@
     
     {
         "name": "-X -5K 网格公路",
-        "state": "planned",
+        "state": "main_axis_paved",
         "from": [-5000, -5000],
         "to": [-50000, -5000]
     },
@@ -1994,7 +1994,7 @@
     
     {
         "name": "-X 5K 网格公路",
-        "state": "planned",
+        "state": "main_axis_paved",
         "from": [-5000, 5000],
         "to": [-50000, 5000]
     },
