@@ -28,11 +28,11 @@ const STATES = {
         color: [71, 85, 40]
     },
     diagonal_dug_wide: {
-        name: "对角线公路全尺寸隧道 (7 宽, 4 高)",
+        name: "对角线公路全尺寸隧道 (9 宽, 4 高)",
         color: [38, 85, 40]
     },
     diagonal_paved: {
-        name: "对角线公路铺砌 (7 宽, 4 高)",
+        name: "对角线公路铺砌 (9 宽, 4 高)",
         color: [9, 85, 40]
     }
 }
